@@ -1,4 +1,5 @@
 {
+    "git.openRepositoryInParentFolders": "always",
     "EIDE.ARM.INI.Path": "E:\\Keil5\\UV4\\UV4.exe",
     "EIDE.ARM.ARMCC5.InstallDirectory": "E:/Keil5/ARM/ARMCC",
     "EIDE.ARM.ARMCC6.InstallDirectory": "E:/Keil5/ARM/ARMCLANG",
