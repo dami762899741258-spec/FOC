@@ -1,0 +1,13 @@
+{
+    "EIDE.ARM.INI.Path": "E:\\Keil5\\UV4\\UV4.exe",
+    "EIDE.ARM.ARMCC5.InstallDirectory": "E:/Keil5/ARM/ARMCC",
+    "EIDE.ARM.ARMCC6.InstallDirectory": "E:/Keil5/ARM/ARMCLANG",
+    "EIDE.ARM.GCC.Prefix": "arm-none-eabi-",
+    "EIDE.ARM.GCC.InstallDirectory": "C:/Users/xiao/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2",
+    "EIDE.STLink.ExePath": "C:/Users/xiao/AppData/Local/stm32cube/bundles/programmer/2.22.0+st.1/bin/STM32_Programmer_CLI.exe",
+    "EIDE.JLink.InstallDirectory": "D:/embedsoftAPP/ARM/Segger",
+    "cortex-debug.armToolchainPath": "C:/Users/xiao/AppData/Local/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin",
+    "cortex-debug.gdbPath": "C:/Users/xiao/AppData/Local/stm32cube/bundles/gnu-gdb-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gdb.exe",
+    "cortex-debug.stlinkPath": "C:/Users/xiao/AppData/Local/stm32cube/bundles/stlink-gdbserver/7.13.0+st.3/bin/ST-LINK_gdbserver.exe",
+    "cortex-debug.stm32cubeprogrammer": "C:/Users/xiao/AppData/Local/stm32cube/bundles/programmer/2.22.0+st.1/bin"
+}

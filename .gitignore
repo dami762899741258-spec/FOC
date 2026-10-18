@@ -1,0 +1,29 @@
+# Keil 编译产物
+MDK-ARM/FOC_3.6/
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+MDK-ARM/build/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.lnp
+*.htm
+*.dep
+*.sct
+*.uvguix.*
+*.uvoptx.bak
+*.lst
+
+# 日志/锁文件
+*.log
+MDK-ARM/uv4.log.lock
+MDK-ARM/.vscode/uv4.log.lock
+MDK-ARM/.eide/log/
+MDK-ARM/.eide.usr.ctx.json
+
+# 备份/临时
+_backup*/
+docs/*.tmp
